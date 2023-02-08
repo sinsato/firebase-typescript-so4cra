@@ -1,0 +1,15 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+#log {
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  background-color: #ddd;
+}
+
+.error {
+  color: red;
+}
